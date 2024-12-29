@@ -1,0 +1,14 @@
+/my-repo
+  /index.html
+  /HBDstyles.css
+  /script.js
+  /image
+    /20200627.jpg
+    /20201231.jpg
+    /20210601.jpg
+    /20220305.jpg
+    /1.jpg
+    /2.jpg
+    /3.jpg
+    /4.jpg
+    /10.mp4
